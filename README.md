@@ -1,5 +1,7 @@
 ### Hi there 👋
-### <center>I am Emad Kamel</center>
+### I am Emad Kamel
+
+## Open-source enthusiast and passionate data analyst
 <!--
 **ekkamel/ekkamel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
