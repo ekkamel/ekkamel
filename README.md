@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I am Emad
+### <center>I am Emad Kamel</center>
 <!--
 **ekkamel/ekkamel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
